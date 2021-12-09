@@ -1,2 +1,2 @@
-# Tags: latest
+# Tags:  latest
 FROM gcr.io/distroless/dotnet-debian9:latest
